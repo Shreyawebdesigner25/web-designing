@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-image\tproperty"
+			],
+			[
+				"border-bott",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"border-botto",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"border-bo",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-width\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"ba",
+				"background-attachment\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"lin",
+				"letter-spacing\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fra",
+				"flex-wrap\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"inline-table\tdisplay"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"repea",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"fony",
+				"font-family\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"borde",
+				"border-collapse\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"fot",
+				"font-style\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shrey/Desktop/web designing/mxplayer.html",
+		"/C/Users/shrey/Desktop/web designing/Image/google.png",
+		"/C/Users/shrey/Desktop/web designing/Image/google quarters.jpg",
+		"/C/Users/shrey/Desktop/web designing/Image/glass.jpg",
+		"/C/Users/shrey/Desktop/web designing/Image/feriha.jpg",
+		"/C/Users/shrey/Desktop/web designing/Image/background.jpg",
+		"/C/Users/shrey/Desktop/web designing/9xflix.html",
+		"/C/Users/shrey/Desktop/web designing/header.html",
+		"/C/Users/shrey/Desktop/web designing/div.html",
+		"/C/Users/shrey/Desktop/web designing/css3.html",
+		"/C/Users/shrey/Desktop/web designing/my logo 2 (2).png",
+		"/C/Users/shrey/Documents/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mxplayer.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
